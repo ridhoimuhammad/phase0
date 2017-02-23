@@ -6,9 +6,9 @@
 
 <strong> Used Tags & Syntaxes </strong>
 <pre>
-<html>
-<body>
-<pre>
+html
+body
+pre
   |----------------------[ About This Site]
   |                                |_ Tentang isi website
   |
@@ -17,10 +17,11 @@
   |                                  |_ Syntax yang digunakan
   |
   |----------------------[ About Me ]
-                              |_ Penjelasan singkat tentang diri
- </pre>
- </body>
- </html>
+  |                            |_ Penjelasan singkat tentang diri
+
+pre
+body
+html
 </pre>
 <strong> About Me </strong>
 <p> Nama saya <strong>Muhamad Ridhoi</strong>, <i>ridho</i> temen-temen manggil saya, :D
