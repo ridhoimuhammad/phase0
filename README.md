@@ -6,7 +6,7 @@
 
 <strong> Used Tags & Syntaxes </strong>
 <pre>
-<html
+<html>
 <body>
 <pre>
   |----------------------[ About This Site]
